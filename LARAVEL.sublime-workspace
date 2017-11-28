@@ -1,0 +1,1522 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sub",
+				"sub_item_id"
+			],
+			[
+				"orders",
+				"orders_detail"
+			],
+			[
+				"sh",
+				"shippingaddress"
+			],
+			[
+				"shi",
+				"shipping_address"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"subitem",
+				"subitem"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"prep",
+				"preprocessing_func"
+			],
+			[
+				"you",
+				"your_list"
+			],
+			[
+				"pre",
+				"preprocessing_list"
+			],
+			[
+				"Base",
+				"Base64Binnary"
+			],
+			[
+				"enco",
+				"encodedPng"
+			],
+			[
+				"deco",
+				"decodedPng"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"html2",
+				"html2canvas"
+			],
+			[
+				"getBound",
+				"getBoundingClientRect"
+			],
+			[
+				"html",
+				"html2canvasproxy"
+			],
+			[
+				"d",
+				"disgust"
+			],
+			[
+				"th",
+				"thread1"
+			],
+			[
+				"my",
+				"my_threads"
+			],
+			[
+				"ajax",
+				"ajaxcalculate"
+			],
+			[
+				"my_t",
+				"my_threads"
+			],
+			[
+				"emo",
+				"emojiconverter"
+			],
+			[
+				"statu",
+				"statusfb"
+			],
+			[
+				"order",
+				"order_by"
+			],
+			[
+				"va",
+				"valid_model"
+			],
+			[
+				"po",
+				"POST"
+			],
+			[
+				"id",
+				"id_fb"
+			],
+			[
+				"emos",
+				"emosi_post"
+			],
+			[
+				"staticf",
+				"STATICFILES_DIRS"
+			],
+			[
+				"dataTab",
+				"dataTable"
+			],
+			[
+				"word_toke",
+				"word_tokenize"
+			],
+			[
+				"mode",
+				"Model"
+			],
+			[
+				"stemm",
+				"Stemming"
+			],
+			[
+				"kata",
+				"kataalayconverter"
+			],
+			[
+				"test_s",
+				"test_sent_features"
+			],
+			[
+				"wor",
+				"word_feats"
+			],
+			[
+				"sit",
+				"SIT"
+			],
+			[
+				"clas",
+				"classifier"
+			],
+			[
+				"emoji",
+				"emojiconverter"
+			],
+			[
+				"my_",
+				"my_text2"
+			],
+			[
+				"myt",
+				"my_text2"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"class",
+				"classify"
+			],
+			[
+				"IS",
+				"ISEARManager"
+			],
+			[
+				"FBS",
+				"FBStatusManager"
+			],
+			[
+				"Isea",
+				"ISEAR"
+			],
+			[
+				"redirect",
+				"HttpResponseRedirect"
+			],
+			[
+				"httpr",
+				"HttpResponseRedirect"
+			],
+			[
+				"SEC",
+				"SECRET_KEY"
+			],
+			[
+				"para",
+				"PARAL"
+			],
+			[
+				"__",
+				"__dict__"
+			],
+			[
+				"fac",
+				"facebook_javascript_login_sucess"
+			],
+			[
+				"FAC",
+				"FACEBOOK_REDIRECT_URL"
+			],
+			[
+				"FACE",
+				"FACEBOOK_SECRET_KEY"
+			],
+			[
+				"HT",
+				"HttpResponseRedirect"
+			],
+			[
+				"OA",
+				"OAuth2Session"
+			],
+			[
+				"vali",
+				"validate_url"
+			],
+			[
+				"v",
+				"validate_dot_com"
+			],
+			[
+				"val",
+				"validate_dot_com"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"s",
+				"shortcode"
+			],
+			[
+				"SO",
+				"SHORTCODE_MAX"
+			],
+			[
+				"Comm",
+				"CommandError"
+			],
+			[
+				"E",
+				"EmoURL"
+			],
+			[
+				"EmoU",
+				"EmoURLManager"
+			],
+			[
+				"crea",
+				"code_generator"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"tahun",
+				"tahun_terbit"
+			],
+			[
+				"brea",
+				"breadcrumb_divider"
+			],
+			[
+				"buc",
+				"bucket_contents"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/filesystems.php",
+			"settings":
+			{
+				"buffer_size": 2574,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/superbalist/laravel-google-cloud-storage/src/GoogleCloudStorageServiceProvider.php",
+			"settings":
+			{
+				"buffer_size": 1360,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Admin/Controllers/OrdersController.php",
+			"settings":
+			{
+				"buffer_size": 2758,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<?php\n\nreturn [\n\n    /*\n    |--------------------------------------------------------------------------\n    | Application Name\n    |--------------------------------------------------------------------------\n    |\n    | This value is the name of your application. This value is used when the\n    | framework needs to place the application's name in a notification or\n    | any other location as required by the application or its packages.\n    */\n\n    'name' => 'My Application',\n\n    /*\n    |--------------------------------------------------------------------------\n    | Application Environment\n    |--------------------------------------------------------------------------\n    |\n    | This value determines the \"environment\" your application is currently\n    | running in. This may determine how you prefer to configure various\n    | services your application utilizes. Set this in your \".env\" file.\n    |\n    */\n\n    'env' => env('APP_ENV', 'production'),\n\n    /*\n    |--------------------------------------------------------------------------\n    | Application Debug Mode\n    |--------------------------------------------------------------------------\n    |\n    | When your application is in debug mode, detailed error messages with\n    | stack traces will be shown on every error that occurs within your\n    | application. If disabled, a simple generic error page is shown.\n    |\n    */\n\n    'debug' => env('APP_DEBUG', false),\n\n    /*\n    |--------------------------------------------------------------------------\n    | Application URL\n    |--------------------------------------------------------------------------\n    |\n    | This URL is used by the console to properly generate URLs when using\n    | the Artisan command line tool. You should set this to the root of\n    | your application so that it is used when running Artisan tasks.\n    |\n    */\n\n    'url' => env('APP_URL', 'http://localhost'),\n\n    /*\n    |--------------------------------------------------------------------------\n    | Application Timezone\n    |--------------------------------------------------------------------------\n    |\n    | Here you may specify the default timezone for your application, which\n    | will be used by the PHP date and date-time functions. We have gone\n    | ahead and set this to a sensible default for you out of the box.\n    |\n    */\n\n    'timezone' => 'UTC',\n\n    /*\n    |--------------------------------------------------------------------------\n    | Application Locale Configuration\n    |--------------------------------------------------------------------------\n    |\n    | The application locale determines the default locale that will be used\n    | by the translation service provider. You are free to set this value\n    | to any of the locales which will be supported by the application.\n    |\n    */\n\n    'locale' => 'en',\n\n    /*\n    |--------------------------------------------------------------------------\n    | Application Fallback Locale\n    |--------------------------------------------------------------------------\n    |\n    | The fallback locale determines the locale to use when the current one\n    | is not available. You may change the value to correspond to any of\n    | the language folders that are provided through your application.\n    |\n    */\n\n    'fallback_locale' => 'en',\n\n    /*\n    |--------------------------------------------------------------------------\n    | Encryption Key\n    |--------------------------------------------------------------------------\n    |\n    | This key is used by the Illuminate encrypter service and should be set\n    | to a random, 32 character string, otherwise these encrypted strings\n    | will not be safe. Please do this before deploying an application!\n    |\n    */\n\n    'key' => env('APP_KEY'),\n\n    'cipher' => 'AES-256-CBC',\n\n    /*\n    |--------------------------------------------------------------------------\n    | Logging Configuration\n    |--------------------------------------------------------------------------\n    |\n    | Here you may configure the log settings for your application. Out of\n    | the box, Laravel uses the Monolog PHP logging library. This gives\n    | you a variety of powerful log handlers / formatters to utilize.\n    |\n    | Available Settings: \"single\", \"daily\", \"syslog\", \"errorlog\"\n    |\n    */\n    \n    'log' => env('APP_LOG', 'single'),\n\n    'log_level' => env('APP_LOG_LEVEL', 'debug'),\n\n    /*\n    |--------------------------------------------------------------------------\n    | Autoloaded Service Providers\n    |--------------------------------------------------------------------------\n    |\n    | The service providers listed here will be automatically loaded on the\n    | request to your application. Feel free to add your own services to\n    | this array to grant expanded functionality to your applications.\n    |\n    */\n\n    'providers' => [\n\n        /*\n         * Laravel Framework Service Providers...\n         */\n        Illuminate\\Auth\\AuthServiceProvider::class,\n        Illuminate\\Broadcasting\\BroadcastServiceProvider::class,\n        Illuminate\\Bus\\BusServiceProvider::class,\n        Illuminate\\Cache\\CacheServiceProvider::class,\n        Illuminate\\Foundation\\Providers\\ConsoleSupportServiceProvider::class,\n        Illuminate\\Cookie\\CookieServiceProvider::class,\n        Illuminate\\Database\\DatabaseServiceProvider::class,\n        Illuminate\\Encryption\\EncryptionServiceProvider::class,\n        Illuminate\\Filesystem\\FilesystemServiceProvider::class,\n        Illuminate\\Foundation\\Providers\\FoundationServiceProvider::class,\n        Illuminate\\Hashing\\HashServiceProvider::class,\n        Illuminate\\Mail\\MailServiceProvider::class,\n        Illuminate\\Notifications\\NotificationServiceProvider::class,\n        Illuminate\\Pagination\\PaginationServiceProvider::class,\n        Illuminate\\Pipeline\\PipelineServiceProvider::class,\n        Illuminate\\Queue\\QueueServiceProvider::class,\n        Illuminate\\Redis\\RedisServiceProvider::class,\n        Illuminate\\Auth\\Passwords\\PasswordResetServiceProvider::class,\n        Illuminate\\Session\\SessionServiceProvider::class,\n        Illuminate\\Translation\\TranslationServiceProvider::class,\n        Illuminate\\Validation\\ValidationServiceProvider::class,\n        Illuminate\\View\\ViewServiceProvider::class,\n\n        /*\n         * Package Service Providers...\n         */\n\n        //\n\n        /*\n         * Application Service Providers...\n         */\n        App\\Providers\\AppServiceProvider::class,\n        // App\\Providers\\BroadcastServiceProvider::class,\n        App\\Providers\\AuthServiceProvider::class,\n        App\\Providers\\EventServiceProvider::class,\n        App\\Providers\\RouteServiceProvider::class,\n\n        Encore\\Admin\\Providers\\AdminServiceProvider::class,\n        Intervention\\Image\\ImageServiceProvider::class,\n        Superbalist\\LaravelGoogleCloudStorage\\GoogleCloudStorageServiceProvider::class,\n    ],\n\n    /*\n    |--------------------------------------------------------------------------\n    | Class Aliases\n    |--------------------------------------------------------------------------\n    |\n    | This array of class aliases will be registered when this application\n    | is started. However, feel free to register as many as you wish as\n    | the aliases are \"lazy\" loaded so they don't hinder performance.\n    |\n    */\n\n    'aliases' => [\n\n        'App' => Illuminate\\Support\\Facades\\App::class,\n        'Artisan' => Illuminate\\Support\\Facades\\Artisan::class,\n        'Auth' => Illuminate\\Support\\Facades\\Auth::class,\n        'Blade' => Illuminate\\Support\\Facades\\Blade::class,\n        'Cache' => Illuminate\\Support\\Facades\\Cache::class,\n        'Config' => Illuminate\\Support\\Facades\\Config::class,\n        'Cookie' => Illuminate\\Support\\Facades\\Cookie::class,\n        'Crypt' => Illuminate\\Support\\Facades\\Crypt::class,\n        'DB' => Illuminate\\Support\\Facades\\DB::class,\n        'Eloquent' => Illuminate\\Database\\Eloquent\\Model::class,\n        'Event' => Illuminate\\Support\\Facades\\Event::class,\n        'File' => Illuminate\\Support\\Facades\\File::class,\n        'Gate' => Illuminate\\Support\\Facades\\Gate::class,\n        'Hash' => Illuminate\\Support\\Facades\\Hash::class,\n        'Lang' => Illuminate\\Support\\Facades\\Lang::class,\n        'Log' => Illuminate\\Support\\Facades\\Log::class,\n        'Mail' => Illuminate\\Support\\Facades\\Mail::class,\n        'Notification' => Illuminate\\Support\\Facades\\Notification::class,\n        'Password' => Illuminate\\Support\\Facades\\Password::class,\n        'Queue' => Illuminate\\Support\\Facades\\Queue::class,\n        'Redirect' => Illuminate\\Support\\Facades\\Redirect::class,\n        'Redis' => Illuminate\\Support\\Facades\\Redis::class,\n        'Request' => Illuminate\\Support\\Facades\\Request::class,\n        'Response' => Illuminate\\Support\\Facades\\Response::class,\n        'Route' => Illuminate\\Support\\Facades\\Route::class,\n        'Schema' => Illuminate\\Support\\Facades\\Schema::class,\n        'Session' => Illuminate\\Support\\Facades\\Session::class,\n        'Storage' => Illuminate\\Support\\Facades\\Storage::class,\n        'URL' => Illuminate\\Support\\Facades\\URL::class,\n        'Validator' => Illuminate\\Support\\Facades\\Validator::class,\n        'View' => Illuminate\\Support\\Facades\\View::class,\n        'Image' => Intervention\\Image\\Facades\\Image::class,\n    ],\n\n];\n",
+			"file": "config/app.php",
+			"file_size": 9304,
+			"file_write_time": 131484850675097209,
+			"settings":
+			{
+				"buffer_size": 9308,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/google/cloud/src/PubSub/V1/resources/subscriber_client_config.json",
+			"settings":
+			{
+				"buffer_size": 3742,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/admin.php",
+			"settings":
+			{
+				"buffer_size": 3376,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Admin/routes.php",
+			"settings":
+			{
+				"buffer_size": 710,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Models/SubItem.php",
+			"settings":
+			{
+				"buffer_size": 674,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Lukaskris/Downloads/Compressed/Node/node.py",
+			"settings":
+			{
+				"buffer_size": 3320,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/project/watson chat bot/node/node/routes/api.js",
+			"settings":
+			{
+				"buffer_size": 1327,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Models/Customer.php",
+			"settings":
+			{
+				"buffer_size": 295,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Models/Orders.php",
+			"settings":
+			{
+				"buffer_size": 235,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Admin/Controllers/RestockController.php",
+			"settings":
+			{
+				"buffer_size": 3072,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n{\n  \"name\": \"RESTful-API\",\n  \"version\": \"0.0.1\",\n  \"scripts\": {\n    \"start\": \"node Server.js\"\n  },\n  \"dependencies\": {\n    \"express\": \"~4.12.2\",\n    \"mysql\": \"~2.5.5\",\n    \"body-parser\": \"~1.12.0\",\n    \"MD5\": \"~1.2.1\"\n  }\n}",
+			"file": "/E/project/Laravel/API/API/node_modules/package.json",
+			"file_size": 224,
+			"file_write_time": 131477757970000000,
+			"settings":
+			{
+				"buffer_size": 224,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/encore/laravel-admin/src/Form/Field/Select.php",
+			"settings":
+			{
+				"buffer_size": 4403,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Models/Restock.php",
+			"settings":
+			{
+				"buffer_size": 476,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Admin/Controllers/ItemController.php",
+			"settings":
+			{
+				"buffer_size": 4524,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Models/Item.php",
+			"settings":
+			{
+				"buffer_size": 701,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Admin/Controllers/CustomerController.php",
+			"settings":
+			{
+				"buffer_size": 2069,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/database.php",
+			"settings":
+			{
+				"buffer_size": 3990,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 551,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "composer.json",
+			"settings":
+			{
+				"buffer_size": 1495,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"php artisan cache:clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/project/Laravel/houseofdesign",
+		"/E/project/Laravel/houseofdesign/app",
+		"/E/project/Laravel/houseofdesign/app/Admin",
+		"/E/project/Laravel/houseofdesign/app/Admin/Controllers",
+		"/E/project/Laravel/houseofdesign/app/Models",
+		"/E/project/Laravel/houseofdesign/config",
+		"/E/project/Laravel/houseofdesign/database",
+		"/E/project/Laravel/houseofdesign/database/factories",
+		"/E/project/Laravel/houseofdesign/database/seeds",
+		"/E/project/Laravel/houseofdesign/storage",
+		"/E/project/Laravel/houseofdesign/vendor",
+		"/E/project/Laravel/houseofdesign/vendor/superbalist",
+		"/E/project/Laravel/houseofdesign/vendor/superbalist/flysystem-google-storage",
+		"/E/project/Laravel/houseofdesign/vendor/superbalist/laravel-google-cloud-storage",
+		"/E/project/Laravel/houseofdesign/vendor/superbalist/laravel-google-cloud-storage/src"
+	],
+	"file_history":
+	[
+		"/E/project/Laravel/houseofdesign/app/Models/Item.php",
+		"/E/project/Laravel/API/API/REST.js",
+		"/E/project/Laravel/API/API/Server.js",
+		"/E/project/Laravel/houseofdesign/vendor/superbalist/laravel-google-cloud-storage/src/GoogleCloudStorageServiceProvider.php",
+		"/E/project/Laravel/houseofdesign/config/app.php",
+		"/E/project/Laravel/houseofdesign/app/Providers/FirebaseStorage.php",
+		"/E/project/Laravel/API/API/node_modules/Server.js",
+		"/E/project/Laravel/API/API/node_modules/REST.js",
+		"/E/project/Laravel/houseofdesign/app/Admin/Controllers/OrdersController.php",
+		"/E/project/Laravel/houseofdesign/app/Admin/Controllers/RestockController.php",
+		"/E/project/watson chat bot/node/node/app.js",
+		"/E/project/Laravel/houseofdesign/app/Admin/Controllers/HomeController.php",
+		"/E/project/Laravel/houseofdesign/app/Admin/Controllers/ItemController.php",
+		"/E/project/Laravel/houseofdesign/app/Admin/Controllers/CategoryController.php",
+		"/C/xampp/htdocs/sh/media.php",
+		"/C/xampp/htdocs/sh/paneladmin/media.php",
+		"/C/xampp/htdocs/sh/resi",
+		"/E/project/watson chat bot/node/node/routes/rajaongkir.php",
+		"/E/project/watson chat bot/node/node/routes/cekongkir.php",
+		"/E/project/watson chat bot/node/node/watson.js",
+		"/C/xampp/htdocs/laravel/shop/database/migrations/2014_05_26_050000_create_modules_table.php",
+		"/C/xampp/htdocs/laravel/shop/app/Http/Controllers/LA/CategoriesController.php",
+		"/C/xampp/htdocs/laravel/shop/app/Http/Controllers/LA/TransactionsController.php",
+		"/C/xampp/htdocs/laravel/houseofdesign/config/app.php",
+		"/C/xampp/htdocs/laravel/houseofdesign/config/database.php",
+		"/C/xampp/htdocs/laravel/houseofdesign/.env.example",
+		"/C/xampp/htdocs/laravel/myshop/composer.json",
+		"/C/xampp/htdocs/laravel/myshop/config/app.php",
+		"/C/xampp/htdocs/laravel/myshop/resources/views/app.blade.php",
+		"/C/xampp/htdocs/laravel/resources/views/app.blade.php",
+		"/C/xampp/htdocs/laravel/config/mail.php",
+		"/C/xampp/htdocs/laravel/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/laravel/resources/views/auth/register.blade.php",
+		"/C/xampp/htdocs/laravel/app/Http/Controllers/Auth/AuthController.php",
+		"/C/xampp/htdocs/laravel/app/Providers/AuthServiceProvider.php",
+		"/C/xampp/htdocs/laravel/myshop/config/database.php",
+		"/C/xampp/htdocs/laravel/myshop/.env",
+		"/C/xampp/htdocs/laravel/app/Http/routes.php",
+		"/C/xampp/htdocs/laravel/resources/views/auth/password.blade.php",
+		"/C/xampp/htdocs/laravel/vendor/aimeos/aimeos-laravel/src/views/auth/register.blade.php",
+		"/C/xampp/htdocs/laravel/vendor/aimeos/aimeos-laravel/src/views/auth/login.blade.php",
+		"/C/xampp/htdocs/laravel/app/Http/Middleware/VerifyCsrfToken.php",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/templates/app_django/processing.html",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/templates/app_django/show.html",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/templates/app_django/admin-pre.html",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/utils.py",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/test.txt",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/project1/urls.py",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/templates/app_django/preprocessing.html",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/static/js/bootstrap.min.js",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/static/js/Base64Binnary.js",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/views.py",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/static/js/responseswitch.js",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/static/js/html2canvas.js",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/static/js/html2canvas1.js",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/html2canvasproxy.py",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/static/js/dom-to-image.js",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/templates/app_django/validasi.html",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/project1/settings.py",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/templates/app_django/home.html",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/templates/app_django/login.html",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/templates/app_django/admin.html",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/templates/app_django/static/css/jumbotron-narrow.css",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/templates/app_django/static/js/dataTables.bootstrap.min.js",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/templates/app_django/static/js/dataTables.min.js",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/templates/app_django/static/css/dataTables.bootstrap.css",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/templates/app_django/static/css/jumtron(custom).css",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/migrations/0001_initial.py",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/settings.py",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/tests.py",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/migrations/0002_auto_20170320_1624.py",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/models.py",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/static/js/dataTables.min.js",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/static/css/dataTables.min.css",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/static/js/morris-data.js",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/static/js/sb-admin-2.js",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/static/js/morris.min.js",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/static/js/raphael.min.js",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/static/js/metisMenu.min.js",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/static/js/bootstrap.min.js",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/static/js/jquery.min.js",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/static/css/morris.css",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/static/css/sb-admin-2.css",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/static/css/metisMenu.min.css",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/app_django/admin.py",
+		"/C/Users/Lukaskris/Documents/_thesis/moodmeter/src/project1/templates/app_django/home.html",
+		"/C/Users/Lukaskris/Documents/_thesis/test/src/app/views.py",
+		"/C/Users/Lukaskris/Documents/_thesis/test/src/app/templates/a/login.html",
+		"/C/Users/Lukaskris/Documents/_thesis/test/facebookapp/app/templates/account/login.html",
+		"/C/Users/Lukaskris/Documents/_thesis/test/facebookapp/app/views.py",
+		"/C/Users/Lukaskris/Documents/_thesis/test/facebookapp/facebookapp/settings.py",
+		"/C/Users/Lukaskris/Documents/_thesis/test/facebookapp/facebookapp/urls.py",
+		"/C/Users/Lukaskris/Documents/_thesis/test/facebookapp/app/templates/account/logout.html",
+		"/C/Users/Lukaskris/Documents/_thesis/test/facebookapp/app/apps.py",
+		"/C/Users/Lukaskris/Documents/_thesis/test/facebookapp/app/templates/facebookapp/index.html",
+		"/C/Users/Lukaskris/Documents/_thesis/test/facebookapp/app/urls.py",
+		"/C/Users/Lukaskris/Documents/_thesis/test/facebookapp/app/static/style.css",
+		"/C/Users/Lukaskris/Documents/_thesis/test/facebookapp/manage.py",
+		"/C/Users/Lukaskris/Documents/_thesis/test/facebookapp/app/templates/account/base.html",
+		"/C/Users/Lukaskris/Documents/_thesis/Django/src/templates/base.html",
+		"/C/Users/Lukaskris/Documents/_thesis/Django/templates/base.html",
+		"/C/Users/Lukaskris/Documents/_thesis/Django/src/shortener/templates/shortener/home.html",
+		"/C/Users/Lukaskris/Documents/_thesis/Django/src/templates/registration/signup.html",
+		"/C/Users/Lukaskris/Documents/_thesis/Django/src/shortener/views.py",
+		"/C/Users/Lukaskris/Documents/_thesis/Django/src/shortener/templates/shortener/logout.html",
+		"/C/Users/Lukaskris/Documents/_thesis/Django/src/shortener/templates/shortener/success.html",
+		"/C/Users/Lukaskris/Documents/_thesis/Django/src/shortener/models.py",
+		"/C/Users/Lukaskris/Documents/_thesis/Django/src/emo/settings.py",
+		"/C/Users/Lukaskris/Documents/_thesis/Django/src/shortener/templates/shortener/already-exists.html",
+		"/C/Users/Lukaskris/Documents/_thesis/Django/src/emo/urls.py",
+		"/C/Users/Lukaskris/Documents/_thesis/Django/src/shortener/validators.py",
+		"/C/Users/Lukaskris/Documents/_thesis/Django/src/shortener/forms.py",
+		"/C/Users/Lukaskris/Documents/_thesis/Django/src/shortener/management/commands/refreshcodes.py",
+		"/C/Users/Lukaskris/Documents/_thesis/Django/src/shortener/utils.py",
+		"/D/_Thesis/Django/src/emo/settings.py",
+		"/D/_Thesis/Django/src/shortener/management/commands/__init__.py",
+		"/D/_Thesis/Django/src/shortener/management/__init__.py",
+		"/D/_Thesis/Django/src/shortener/admin.py",
+		"/D/_Thesis/Django/src/shortener/migrations/0003_auto_20170116_2020.py",
+		"/D/_Thesis/Django/django-1.1.10.sublime-project",
+		"/D/_Thesis/Django/django-1.1.10.sublime-workspace",
+		"/D/xampp/htdocs/ELIB/application/models/BukuModel.php",
+		"/D/xampp/htdocs/ELIB/application/models/UserModel.php",
+		"/D/xampp/htdocs/ELIB/application/views/webpage/viewbook.php",
+		"/D/xampp/htdocs/ELIB/application/views/user/editprofile.php",
+		"/D/xampp/htdocs/ELIB/application/views/user/index.php",
+		"/D/xampp/htdocs/ELIB/application/views/webpage/index.php",
+		"/D/xampp/htdocs/ELIB/application/controllers/Web.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"houseofdesign",
+			"guzzle",
+			"$subscription->pull",
+			"$subscription->pull(",
+			" $subscription->pull(",
+			"<? echo",
+			"simpantransaksi",
+			"email",
+			"?hal=",
+			"hal",
+			"context",
+			"function fi",
+			"find",
+			"Schema",
+			"Schema::",
+			"Schema",
+			"format_fie",
+			"generate(",
+			"create",
+			"modul",
+			"module",
+			"create",
+			"we",
+			"time",
+			"time()",
+			"import time",
+			"print",
+			"#",
+			"print",
+			"users",
+			"\n          background: \"#ffffff\",\n          proxy:'http://www.emodetection.com:8000/imgProxy/',\n          useCORS: true,\n          logging: true\n        }).then(function(canvas) {\n            $(\".jumbotron\")[0].ownerDocument.defaultView.innerHeight = h;\n            //Do whatever you want with your canvas\n            var imgData= canvas.toDataURL('image/png');\n            $.ajax({\n              url:'/save/',\n              type:'post',\n              dataType:'text',\n              data:{\n                base64data:imgData\n              }\n            });\n            postCanvasToFacebook(imgData);\n            $('meta[name=\"viewport\"]').attr(\"content\", \"width=device-width\");\n        });",
+			"def save",
+			"save",
+			"ajax",
+			"getstatus",
+			"title",
+			"return renderDocument(node.ownerDocument, options, node.ownerDocument.defaultView.innerWidth, node.ownerDocument.defaultView.innerHeight, index).then(function(canvas) {",
+			"match",
+			"colorStop",
+			"\\xf0\\x9f\\x99\\x81",
+			"static/",
+			"WAJAH",
+			"encode",
+			"decode",
+			"alert",
+			"<link href=\"/static/css/bootstrap.css\" rel=\"stylesheet\">",
+			"\n    ",
+			"models.DecimalField(max_digits=20,decimal_places=3)",
+			"max_digit",
+			".IntegerField()",
+			"IntegerField()",
+			"script",
+			"backends",
+			"url",
+			"url(r'^view-1/', emo_redirect_view),",
+			"url",
+			"def add_arguments(self, parser):\n\t\tparser.add_arguments('poll_id', nargs='+', type=int)",
+			"print",
+			"u",
+			";",
+			"def my_save(self):\n\t\tself.save()",
+			"\t\n",
+			"admin/",
+			"s3",
+			"<body>\n\t<header id=\"header\">\n\t\t<hgroup>\n\t\t\t<h1 class=\"site_title\"><a href=\"index.html\">E-Library</a></h1>\n\t\t\t<h2 class=\"section_title\">Dashboard</h2><div class=\"btn_view_site\"><a href=\"\">Website</a></div>\n\t\t</hgroup>\n\t</header><!-- end of header bar -->\n\n\t<section id=\"secondary_bar\">\n\t\t<div class=\"user\">\n\t\t\t<p>Fanuel Heulwen (<a href=\"#\">3 Pemberitahuan</a>)</p>\n\t\t\t<a class=\"logout_user\" href=\"#\" title=\"Keluar\">Keluar</a>\n\t\t</div>\n\t\t<div class=\"breadcrumbs_container\">\n\t\t\t<article class=\"breadcrumbs\"><a href=\"index.html\">Website Admin</a> <div class=\"breadcrumb_divider\"></div> <a class=\"current\">Dashboard</a></article>\n\t\t</div>\n\t</section><!-- end of secondary bar -->\n\n\t<aside id=\"sidebar\" class=\"column\">\n\t\t<form class=\"quick_search\">\n\t\t\t<input type=\"text\" value=\"Cari Bukumu\" onfocus=\"if(!this._haschanged){this.value=''};this._haschanged=true;\">\n\t\t</form>\n\t\t<hr/>\n\t\t<h3>Konten</h3>\n\t\t<ul class=\"toggle\">\n\t\t\t<li class=\"icn_new_article\"><a href=\"#\">Tambah Buku</a></li>\n\t\t\t<li class=\"icn_edit_article\"><a href=\"#\">Edit Buku</a></li>\n\t\t\t<li class=\"icn_categories\"><a href=\"#\">Lihat Buku</a></li>\n\t\t</ul>\n\t\t<h3>User</h3>\n\t\t<ul class=\"toggle\">\n\t\t\t<li class=\"icn_view_users\"><a href=\"#\">Lihat Profil</a></li>\n\t\t\t<li class=\"icn_profile\"><a href=\"#\">Edit Profil</a></li>\n\t\t</ul>\n\t\t<h3>Admin</h3>\n\t\t<ul class=\"toggle\">\n\t\t\t<li class=\"icn_jump_back\"><a href=\"#\">Logout</a></li>\n\t\t</ul>\n\t\t\n\t\t<footer>\n\t\t\t<hr />\n\t\t\t<p><strong>Copyright &copy; 2016 E-Library</strong></p>\n\t\t\t<p>Theme by <a href=\"http://www.medialoot.com\">MediaLoot</a></p>\n\t\t</footer>\n\t</aside><!-- end of sidebar -->\n\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<?php echo",
+			"preprocessing",
+			"{% static '",
+			"",
+			",",
+			"max_digits",
+			".DecimalField(max_digit=20,decimal_places=3)",
+			"DecimalField(max_digit=20,decimal_places=3)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/filesystems.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2127,
+								2130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 936.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "vendor/superbalist/laravel-google-cloud-storage/src/GoogleCloudStorageServiceProvider.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1351,
+								1351
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Admin/Controllers/OrdersController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1948,
+								1948
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1134.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "config/app.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4312,
+								4312
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1567.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "vendor/google/cloud/src/PubSub/V1/resources/subscriber_client_config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1475,
+								1475
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "config/admin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1005,
+								993
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/Admin/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 710,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								396,
+								396
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/Models/SubItem.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								656,
+								656
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Lukaskris/Downloads/Compressed/Node/node.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2959,
+								2959
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 557.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/E/project/watson chat bot/node/node/routes/api.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1302,
+								1302
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 325.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/Models/Customer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/Models/Orders.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "app/Admin/Controllers/RestockController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3072,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1729,
+								1729
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1890.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/E/project/Laravel/API/API/node_modules/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "vendor/encore/laravel-admin/src/Form/Field/Select.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2671,
+								2671
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1493.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "app/Models/Restock.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								385,
+								393
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "app/Admin/Controllers/ItemController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3414,
+								3414
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2124.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "app/Models/Item.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "app/Admin/Controllers/CustomerController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2069,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "config/database.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1923,
+								1937
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1296.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": ".env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								246,
+								257
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "composer.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								360,
+								360
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "LARAVEL.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "onlineshop-cee9c",
+  "private_key_id": "2c88862ca436a32220c6a94601ab6347fe4444d4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/AC1do61g5b6l\nCuNytxVaSoQuYgmxAXW3SKp8N8loVNlvvpqeX7aGFhZNWpt08d5zL1PID+hSHufQ\n1gz7LkA6f7uI4qEgNojpuxPcNHFrwDUu/cuVeOqD+Wc+RtFhxIm2FInaDicboAmA\nB2B2oKNiAkVV6WRSi/YL8kBqBnnRSlRVbKa7AGco4pwg96yd65+O87EdXiIyJ42s\nvaGBhAStiysjTZFHgmXvflWp4zEiQwcRH6fWjCWgfT+oyLNr8Uy3hUxlThNx+Yhf\nYn7c5MV6Gv8UYWUWR5YcChvOAV+ASomeiq0ubOiQf1lpvVg5CD9W0AiDPFZwfoZO\nVcFeuwJLAgMBAAECggEAXsduu53CJmg7P1j03vL9FI4Po5igqIZJ7MaRWwyv1Cbu\nsyXJQjfKsiT5si75H4H6WfwtPgSuyzls3VOqo2YjFyRVYirbu8l0DU/5HfekJMz/\nVy83vBeBgDXdxqiLtFE76O+uLFeDjpDOxgpjEtrJ2JO55lTnpJKxaOIwlqxZ/MFh\nu9ye1VZWc0/eGQYnI8WCyy05IlJyPlfgIhwiGcxkM58Z09W1yPNGEagHeluqWHr+\nqcfUv3eC/x8CeCi9Q4nPhLk0S5yH8C9mMZr23bOVvtiK8MgM4whr8UdCDkp9p6OH\nYDN0q5WQFhKbhxJYk8quaPM/WvKBFpHrfz2Nsg1mEQKBgQD4kPLyyL1c3+fxExQM\nLaeJrCu/dZ0QTcNl2qecjMTOAq2Jk43FGbN48w0bodyMkHNaJ0vy75nHPOYqJKu0\nLXQHXpgfAT6mY+3uhV9gwl+Pywxhys/6m1jcuPiuq/vtvAEioSPXdG2ltxZRoM4I\nXOK9sBc9N8VOok0YyHsQrtAuswKBgQDEtoAGwiXaY0C7b7fnvgLOyjaAYBGUHhtK\nQpKM1xkD9PwNXeiLkc/Iml/KHUlh8vZ3eysupUchBehLCxD/Pe4K2PjR0blj7wMK\nk4bJPW2rXUg86PD5itTJYooBJIk0IRYb+zLrzoZoTGeLuCs2JkIAO7kBFuHX2YE9\nZqxrh0AqCQKBgQDTQ6+ads+r3orutX52k18wfmt4gWiLcOzA50VKo8KqLlB8/DKk\n8aE/DaV4dOxVdHj2iSveQZN8aeBetWhS7ccOdHHq+E3dclXKQwW74bkDKFtPyudW\nYy71+ykynO61MvPsEPW7rDN9g82ud3RmWzxEaSR3Xa2PlhbdF5ixp0M+TQKBgQCG\nqKPFfJwq/myuotCS3FjRtE1Q3fLKoT1vPVlS/mAKfGcaw2FQQbWqjjrqgdfdLFQa\nAH/UA6JIceHNlTrCb2OHm3XhNB8j0NcVI15OXjW37DhqMc/cE3SMk18DXz5pKAkZ\niIEYOR17QmpTk/RIsjHWNQv1OfPKLgOxw5peVYzP+QKBgDDL8iZFW9HDgdFJH41u\nH8XtUCOoyoDDLQcQXSjTQfVVtAyf64SdKcY3i+RU5K1Ewt6XGAJ/GhPo9o8+veqZ\nPp9ePuvIcFRoisZbEtiRg23RPE5YFyjkBXRDSRyyJncRikQ6oSkH9bgEEgKY0Y/q\np1JzjLX0CZNcTiLutHW15vt1\n-----END PRIVATE KEY-----\n",
+  "client_email": "house-of-design@onlineshop-cee9c.iam.gserviceaccount.com",
+  "client_id": "100646018206062547685",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/house-of-design%40onlineshop-cee9c.iam.gserviceaccount.com"
+}
